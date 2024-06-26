@@ -102,7 +102,7 @@ For face recognition, we implemented FaceNet and DeepFace models due to their su
 
 ## Contact Me
 
-<a href="https://linkedin.com/in/shreyassn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyassn" height="30" width="40" /></a>
-<a href="https://kaggle.com/shreyassn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shreyassn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shreyas_s_n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyas_s_n" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shreyassn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyassn" height="30" width="40" /></a>
+<a href="https://kaggle.com/shreyassn01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shreyassn01" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shreyas_s_n" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyas_s_n" height="30" width="40" /></a>
 </p>
