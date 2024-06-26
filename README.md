@@ -7,7 +7,7 @@ The project, "Identification of Suspect in Crowd Using Face Recognition with Dee
 
 ## Flow Diagram
 
-[![Suspect-Detection-Methodology-drawio.png](https://i.postimg.cc/9MLM6vNF/Suspect-Detection-Methodology-drawio.png)](https://postimg.cc/CBfSD6gW)
+[![SUSPECT-DETECTON-IN-CROWD-FLOWCHART-drawio-2.png](https://i.postimg.cc/ZK8RZBQM/SUSPECT-DETECTON-IN-CROWD-FLOWCHART-drawio-2.png)](https://postimg.cc/rKpcNmM1)
 ## Prerequisites
 
 - Numpy
@@ -44,7 +44,7 @@ The project, "Identification of Suspect in Crowd Using Face Recognition with Dee
 
 Data augmentation enriches datasets for better suspect detection in crowds by altering existing data. Techniques include geometric transformations (e.g., cropping, rotation) and photometric changes (e.g., brightness adjustment, noise addition), improving model accuracy and reliability (Wu et al., 2021).
 
-[![Screenshot-2024-06-27-004726.png](https://i.postimg.cc/DyW5mFhs/Screenshot-2024-06-27-004726.png)](https://postimg.cc/PPj1FgPr)
+[![Untitled-Diagram-drawio-1.png](https://i.postimg.cc/XYxYBM4K/Untitled-Diagram-drawio-1.png)](https://postimg.cc/ZWBSXM90)
 
 Integration of Virtual Objects
 Augmented Reality (AR) enhances facial recognition by introducing diverse facial appearances (e.g., skin tones, accessories). This reduces biases and improves accuracy across demographics, aiding algorithm optimization and real-world deployment (Mash et al., 2020).
