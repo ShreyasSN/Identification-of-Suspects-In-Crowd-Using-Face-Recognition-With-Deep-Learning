@@ -7,7 +7,7 @@ The project, "Identification of Suspect in Crowd Using Face Recognition with Dee
 
 ## Flow Diagram
 
-[![Suspect-Detection-Methodology.jpg](https://i.postimg.cc/wxD4kgZp/Suspect-Detection-Methodology.jpg)](https://postimg.cc/grkKzFGS)
+[![Suspect-Detection-Methodology-drawio.png](https://i.postimg.cc/9MLM6vNF/Suspect-Detection-Methodology-drawio.png)](https://postimg.cc/CBfSD6gW)
 ## Prerequisites
 
 - Numpy
