@@ -44,7 +44,7 @@ The project, "Identification of Suspect in Crowd Using Face Recognition with Dee
 
 Data augmentation enriches datasets for better suspect detection in crowds by altering existing data. Techniques include geometric transformations (e.g., cropping, rotation) and photometric changes (e.g., brightness adjustment, noise addition), improving model accuracy and reliability (Wu et al., 2021).
 
-[![Untitled-Diagram-drawio-1.png](https://i.postimg.cc/XYxYBM4K/Untitled-Diagram-drawio-1.png)](https://postimg.cc/ZWBSXM90)
+[![Untitled-Diagram-drawio-1.png](https://i.postimg.cc/rp3c5Mb4/Untitled-Diagram-drawio-1.png)](https://postimg.cc/wtXSp89x)
 
 Integration of Virtual Objects
 Augmented Reality (AR) enhances facial recognition by introducing diverse facial appearances (e.g., skin tones, accessories). This reduces biases and improves accuracy across demographics, aiding algorithm optimization and real-world deployment (Mash et al., 2020).
