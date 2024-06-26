@@ -98,3 +98,12 @@ For face recognition, we implemented FaceNet and DeepFace models due to their su
 - H. Idrees, I. Saleemi, C. Seibert, and M. Shah, “Multi-source multi-scale counting in extremely dense crowd images,” in 2013 IEEE Conference on Computer Vision and Pattern Recognition, pp. 2547–2554, 2013.
 - K. K. Kumar and H. V. Reddy, “Literature survey on video surveillance crime activity recognition,” in 2022 First International Conference on Artificial Intelligence Trends and Pattern Recognition (ICAITPR), pp. 1–8, 2022.
 - S. Singla and R. Chadha, “Detecting criminal activities from cctv by using object detection and machine learning algorithms,” in 2023 3rd International Conference on Intelligent Technologies (CONIT), pp. 1–6, 2023.
+
+
+## Contact Me
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyassn&show_icons=true&locale=en&layout=compact" alt="shreyassn" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyassn&show_icons=true&locale=en" alt="shreyassn" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyassn&" alt="shreyassn" /></p>
