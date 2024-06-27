@@ -64,19 +64,6 @@ We used YOLOv8, a state-of-the-art object detection tool, trained on a custom fa
 ## Face Recognition
 
 For face recognition, we implemented FaceNet and DeepFace models due to their superior accuracy and rapid recognition capabilities, chosen after evaluating five different models. These models extract facial features from cropped images of detected faces, allowing precise identification. Integrated with a suspect database, the system quickly compares each face against known suspects, enabling efficient identification and real-time alerts to authorities.
-## Prerequisites
-
-- Numpy
-- Pandas
-- Matplotlib
-- Scikit-Learn
-- TensorFlow
-- Keras
-- Python
-- OpenCV
-- Dlib
-- PyTorch
-- YOLO
 
 ## References
 
